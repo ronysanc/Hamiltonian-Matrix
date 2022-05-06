@@ -7,4 +7,4 @@ The Hamiltonian can be represented by creation and annihilation operators terms,
 
 In this program we are only concerned with computing the matrix of our Hamiltonian operator, i.e. our matrix has the following form:
 
-![](Images/Hamiltonian02.png)
+<p align="center"><img src="Images/Hamiltonian02.png" width="350"/></p>
